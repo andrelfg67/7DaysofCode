@@ -3,39 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>#7DaysOfCode HTML e CSS - Alura</title>
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            background: #f7f7f7;
-            color: #222;
-            margin: 0;
-            padding: 0;
-        }
-        main {
-            max-width: 700px;
-            margin: 60px auto;
-            background: #fff;
-            border-radius: 12px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
-            padding: 40px 32px;
-        }
-        h1 {
-            color: #0A400C;
-            margin-top: 0;
-        }
-        .alura {
-            color: #0D5EA6f;
-            font-weight: bold;
-        }
-        .figma {
-            color: #f24e1e;
-            font-weight: bold;
-        }
-        section {
-            margin-top: 24px;
-        }
-    </style>
 </head>
 <body>
     <main>
